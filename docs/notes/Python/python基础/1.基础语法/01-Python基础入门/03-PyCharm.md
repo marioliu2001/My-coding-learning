@@ -78,13 +78,13 @@ print("hello world")
 
 [file] -- [Settings]/[Default Settings]。
 
-![image-20190102123155335](../../../Python%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89/01-Python%E5%85%A5%E9%97%A8/Python%E5%85%A5%E9%97%A8.assets/image-20190102123155335-6403515.png)
+[//]: # (![image-20190102123155335]&#40;../../../Python%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89/01-Python%E5%85%A5%E9%97%A8/Python%E5%85%A5%E9%97%A8.assets/image-20190102123155335-6403515.png&#41;)
 
 ## 4.1 修改主题
 
 [Appearance & Behavior] -- [Appearance]
 
-![image-20190102123336527](../../../Python%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89/01-Python%E5%85%A5%E9%97%A8/Python%E5%85%A5%E9%97%A8.assets/image-20190102123336527-6403616.png)
+[//]: # (![image-20190102123336527]&#40;../../../Python%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89/01-Python%E5%85%A5%E9%97%A8/Python%E5%85%A5%E9%97%A8.assets/image-20190102123336527-6403616.png&#41;)
 
 - Theme：修改主题
 - Name：修改主题字体
@@ -120,11 +120,11 @@ print("hello world")
 
 在新窗口打开，则打开两次PyCharm，每个PyCharm负责一个项目。
 
-![image-20190102112759382](../../../Python%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89/01-Python%E5%85%A5%E9%97%A8/Python%E5%85%A5%E9%97%A8.assets/image-20190102112759382-6399679.png)
+[//]: # (![image-20190102112759382]&#40;../../../Python%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89/01-Python%E5%85%A5%E9%97%A8/Python%E5%85%A5%E9%97%A8.assets/image-20190102112759382-6399679.png&#41;)
 
 3. Attach
 
-![image-20190102113151017](../../../Python%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89/01-Python%E5%85%A5%E9%97%A8/Python%E5%85%A5%E9%97%A8.assets/image-20190102113151017-6399911.png)
+[//]: # (![image-20190102113151017]&#40;../../../Python%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89/01-Python%E5%85%A5%E9%97%A8/Python%E5%85%A5%E9%97%A8.assets/image-20190102113151017-6399911.png&#41;)
 
 ### 4.4.2 关闭项目
 
