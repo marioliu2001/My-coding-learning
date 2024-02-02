@@ -27,8 +27,8 @@ function getList(params, path1, pathname) {
     for (let file in params) {
         // 拼接目录
         const dir = path.join(path1, params[file]);
-        // 判断是否是文件夹
-        const isDir = isDirectory(dir);
+        // 判断是否是文件夹 并且不能是.assets结尾的文件(自己加的代码)
+        const isDir = isDirectory(dir) && !dir.endsWith('.assets');
         if (isDir) {
             // 如果是文件夹,读取之后作为下一次递归参数
             const files = fs.readdirSync(dir);
