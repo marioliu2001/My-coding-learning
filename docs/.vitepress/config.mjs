@@ -33,6 +33,7 @@ export default defineConfig({
         items: [
           { text: 'HTML', link: '/notes/Web/HTML/' },
           { text: 'CSS', link: '/notes/Web/CSS/' },
+          { text: 'html5', link: '/notes/Web/html5/' },
           { text: 'JavaScript', link: '/notes/Web/JavaScript/' }
         ]
       },
@@ -60,6 +61,7 @@ export default defineConfig({
       '/notes/Python/python基础': set_sidebar('/notes/Python/python基础'),
       '/notes/Web/HTML': set_sidebar('/notes/Web/HTML'),
       '/notes/Web/CSS': set_sidebar('/notes/Web/CSS'),
+      '/notes/Web/html5': set_sidebar('/notes/Web/html5'),
       '/notes/Web/JavaScript': set_sidebar('/notes/Web/JavaScript'),
     },
 
